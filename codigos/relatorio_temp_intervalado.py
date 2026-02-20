@@ -116,9 +116,9 @@ def generate_consolidated_report_by_minute(
 
 # --- Exemplo de uso ---
 if __name__ == '__main__':
-    data_folder_path = '/home/arthur/Documents/documentosBACKUP/mestrado/dissertacao/parte2/TERMAL/imagensDatas/CSVs INDICE TERMICO SEGMENTADO EXTREMO REMOVIDO'
-    temp_file_path = '/home/arthur/Documents/documentosBACKUP/mestrado/dissertacao/parte2/planilhas/temperaturasSeparadasCorrigidas/temperaturas.csv'
-    output_file = '/home/arthur/Documents/documentosBACKUP/mestrado/dissertacao/parte2/planilhas/temp_t125.csv'
+    data_folder_path = ''
+    temp_file_path = ''
+    output_file = ''
     search_string_filter = 'T125'  # Ex: 'b1_T50'
     
     # --- NOVO PARÂMETRO ---
